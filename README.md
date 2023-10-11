@@ -11,7 +11,7 @@ My name is Anna and I've just begun my journey to the world of the frontend deve
 
 ### 📈 My Github stats:
 
-[![stats](https://github-readme-stats.vercel.app/api?username=arrayumi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=arrayumi&theme=dracula&hide=stars,issues&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
