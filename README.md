@@ -2,8 +2,9 @@
 
 My name is Anna and I've just begun my journey to the world of frontend development
 
-I'm currently working on:
+I'm currently learning:
 [Marketplace of telegram bots for retail](https://github.com/Marketplace-of-telegram-bots-for-retail/frontend)
+[algorhythms](https://www.codewars.com/users/arrayumi)
 
 
 <!--
