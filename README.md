@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+My name is Anna and I've just begun my journey to the world of frontend development
+
+I'm currently working on:
+[Marketplace of telegram bots for retail](https://github.com/Marketplace-of-telegram-bots-for-retail/frontend)
+
 
 <!--
 **arrayumi/arrayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
