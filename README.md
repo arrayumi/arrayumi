@@ -1,13 +1,17 @@
-### Hello!
+### ✨ Hello!
 
 My name is Anna and I've just begun my journey to the world of the frontend development
 
-### What i'm currently doing:
+### 🚀 What i'm currently doing:
 * participating in the development of project "Marketplace of telegram bots for retail" [`github page`](https://github.com/Marketplace-of-telegram-bots-for-retail/frontend)
 * improving my algorithmic thinking skill [`codewars profile`](https://www.codewars.com/users/arrayumi)
 
-### My stack:
+### 📚 My stack:
 `HTML5` `CSS3` `JavaScript` `React` `Node.js` `express.js` `Git` `Figma` `MongoDB` `Postman`
+
+### 📈 My Github stats:
+
+[![stats](https://github-readme-stats.vercel.app/api?username=arrayumi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
