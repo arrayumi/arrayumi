@@ -7,7 +7,15 @@ My name is Anna and I'm frontend developer
 * improving my algorithmic thinking skill [`codewars profile`](https://www.codewars.com/users/arrayumi)
 
 ### 📚 My stack:
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Node.js` `express.js` `Git` `Figma` `MongoDB` `Postman`
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=000000&fill=ffc0cd&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=ffc0cd&textfill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=ffc0cd&&textfill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=ffc0cd&&textfill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=ffc0cd&&textfill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=ffc0cd&&textfill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongoDB&fill=ffc0cd&&textfill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Postman&fill=ffc0cd&&textfill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&fill=ffc0cd&&textfill=000000)
 
 ### 📈 My Github stats:
 
