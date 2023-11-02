@@ -3,8 +3,9 @@
 My name is Anna and I'm frontend developer
 
 ### 🚀 What i'm currently doing:
-* participating in the development of project "Marketplace of telegram bots for retail" [`github page`](https://github.com/Marketplace-of-telegram-bots-for-retail/frontend)
-* improving my algorithmic thinking skill [`codewars profile`](https://www.codewars.com/users/arrayumi)
+* participating in [hackathons](https://github.com/arrayumi/hakaton-tracker-team-13-fork)
+* contributing to the project [Marketplace of telegram bots for retail](https://github.com/Marketplace-of-telegram-bots-for-retail/frontend)
+* improving my algorithmic thinking skill on [Codewars](https://www.codewars.com/users/arrayumi)
 
 ### 📚 My stack:
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=000000&fill=ffc0cd&animation=spin)
@@ -17,10 +18,12 @@ My name is Anna and I'm frontend developer
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Postman&fill=ffc0cd&&textfill=000000)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&fill=ffc0cd&&textfill=000000)
 
-### 📈 My Github stats:
+### 📈 My stats:
 
 [![stats](https://github-readme-stats.vercel.app/api?username=arrayumi&theme=dracula&hide=stars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![code wars](https://www.codewars.com/users/arrayumi/badges/large)
 
 <!--
 **arrayumi/arrayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
