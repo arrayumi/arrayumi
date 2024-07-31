@@ -2,21 +2,9 @@
 
 My name is Anna and I'm frontend developer
 
-### 🚀 What i'm currently doing:
-* participating in [hackathons](https://github.com/arrayumi/hakaton-tracker-team-13-fork)
-* contributing to the project [Marketplace of telegram bots for retail](https://github.com/Marketplace-of-telegram-bots-for-retail/frontend)
-* improving my algorithmic thinking skill on [Codewars](https://www.codewars.com/users/arrayumi)
-
 ### 📚 My stack:
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=000000&fill=ffc0cd&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html5&fill=ffc0cd&textfill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css3&fill=ffc0cd&&textfill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=ffc0cd&&textfill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=ffc0cd&&textfill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=ffc0cd&&textfill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongoDB&fill=ffc0cd&&textfill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Postman&fill=ffc0cd&&textfill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&fill=ffc0cd&&textfill=000000)
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/redux/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/pink/pink" /><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/postman/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vite/pink/pink" />
 
 ### 📈 My stats:
 
