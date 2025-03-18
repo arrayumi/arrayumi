@@ -6,10 +6,11 @@ My name is Anna and I'm frontend developer
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/redux/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/pink/pink" /><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/postman/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sass/pink/pink" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vite/pink/pink" />
 
+<!--
 ### 📈 My stats:
 
 [![stats](https://github-readme-stats.vercel.app/api?username=arrayumi&theme=dracula&hide=stars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 ![code wars](https://www.codewars.com/users/arrayumi/badges/large)
 
